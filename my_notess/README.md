@@ -1,6 +1,7 @@
 # my_notess
 
 A new Flutter project.
+Tic Tac Toe Game developed in Flutter.
 
 ## Getting Started
 
